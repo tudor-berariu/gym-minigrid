@@ -6,3 +6,6 @@ trained_models
 # PyPI
 build/*
 dist/*
+
+.vscode/
+*.code-workspace
